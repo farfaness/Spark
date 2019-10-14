@@ -9,5 +9,6 @@ Basics of data parallelism using Spark (Dataframe), developed on the Databricks 
 
 -> Data used in these two notebooks : 2c443e0c8b99190f_c98fa37700000000_457998991_data_0__1__1_-c0514.parq
 
--> Script : 
+-> Script : Scala_basics.sc
+
 Basics of Scala language
